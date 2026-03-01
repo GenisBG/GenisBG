@@ -2,7 +2,7 @@
   
 # I'm Genís Balcells
 
-🎓 I'm a **Computer Engineering student** from Spain 🇪🇸  
+🎓 I'm a **Computer Engineering student** from Catalonia
 📍 Currently studying the **Computer Engineering specialization** (*Mención en Ingeniería de Computadores*) at **Universitat Autònoma de Barcelona (UAB)**
 
 ### 💡 About Me
