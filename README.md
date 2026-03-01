@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 I’m passionate about how software interacts with hardware.  
-My studies focus on **digital systems, computer architectures, embedded systems, and software for hardware platforms**.([eps.ua.es](https://eps.ua.es/es/ingenieria-informatica/menciones.html?utm_source=chatgpt.com))
+My studies focus on **digital systems, computer architectures, embedded systems, and software for hardware platforms**.
 
 ### 🛠 What I Like
 - Digital systems & computer architecture  
