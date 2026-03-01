@@ -1,6 +1,6 @@
 <img width="3440" height="1337" alt="Diseño sin título" src="https://github.com/user-attachments/assets/680d6346-5372-4a13-ac6d-a53a72a731bd" />
   
-# 👋 Hi there! I'm Genís Balcells
+# I'm Genís Balcells
 
 🎓 I'm a **Computer Engineering student** from Spain 🇪🇸  
 📍 Currently studying the **Computer Engineering specialization** (*Mención en Ingeniería de Computadores*) at **Universitat Autònoma de Barcelona (UAB)**
