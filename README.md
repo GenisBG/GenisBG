@@ -20,4 +20,4 @@ I enjoy **optimizing code just to see how many milliseconds I can save**, even w
 
 ### 📫 Let’s connect!
 - 📧 Email: *gebalcells@gmail.com*  
-- 🔗 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/gen%C3%ADsbalcells/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/gen%C3%ADsbalcells/
